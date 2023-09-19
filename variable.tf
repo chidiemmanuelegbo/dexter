@@ -32,5 +32,5 @@ variable "pub-cidr2" {
 }
 
 variable "az1" {
-default = "eu-west-2a"
+default = "eu-west-2c"
 }
